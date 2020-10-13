@@ -14,9 +14,9 @@
 * Web Framework : Flask
 
 ## Collaborators
-* howking327
-* yiy829
-* jaden7856
+* [howking327](https://github.com/howking327)
+* [yiy829](https://github.com/yiy829)
+* [jaden7856](https://github.com/jaden7856)
 
 ## Data Set
 * 감정 분석 데이터 셋
