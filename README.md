@@ -20,7 +20,7 @@
 
 ## Data Set
 * 감정 분석 데이터 셋
-
+<img src="https://user-images.githubusercontent.com/57978668/95817488-943b5200-0d5c-11eb-8723-6eae92b7ea89.png"></img>
 * 음악 플레이리스트 추천 데이터 셋
 
 
