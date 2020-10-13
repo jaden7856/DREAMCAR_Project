@@ -20,9 +20,9 @@
 
 ## Data Set
 * 감정 분석 데이터 셋
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="C:\Users\User\Desktop\취업\GitFile\dreamcar/1.jpg" width="450px" height="300px"></img><br/>
 * 음악 플레이리스트 추천 데이터 셋
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="C:\Users\User\Desktop\취업\GitFile\dreamcar/2.jpg" width="450px" height="300px"></img><br/>
 
 ▶ Project
 3
